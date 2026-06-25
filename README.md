@@ -1,3 +1,7 @@
+![Made to be Plundered](https://img.shields.io/badge/Made%20to%20be%20Plundered-royalblue)
+[![Latest version](https://img.shields.io/github/v/release/PaulioRandall/p71-shadow-svelte)](https://github.com/PaulioRandall/p71-shadow-svelte/releases)
+[![Release date](https://img.shields.io/github/release-date/PaulioRandall/p71-shadow-svelte)](https://github.com/PaulioRandall/p71-shadow-svelte/releases)
+
 # P71: Shadow Svelte
 
 Svelte pre-processor enabling quick access to Svelte & SvelteKit functions through auto import.
