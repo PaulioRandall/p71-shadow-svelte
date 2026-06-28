@@ -6,9 +6,9 @@
 
 Svelte pre-processor enabling quick access to Svelte & SvelteKit functions through auto import.
 
-_[Default mappings for functions](./src/defaultMappings)_. It also includes console logging alias functions. You can modify the mappings and aliases via the _customise_ pre-processor option.
+_[Default mappings for functions](./src/defaultMappings)_. You can modify the mappings and aliases via the _customise_ pre-processor option.
 
-> Very simple implementation using regular expressions. Quick side project so CBA to do proper JavaScript parsing.
+> Very simple implementation using regular expressions. Quick side project, thus CBA to do proper JavaScript parsing.
 
 ## Usage
 
@@ -165,3 +165,7 @@ _[Default mappings](./src/defaultMappings)_. You can also modify the mappings vi
 	$error: "console.error",
 }
 ```
+
+## Made to be Plundered
+
+Alternatively, _Copy & paste_ files from _[/src](./src)_ into your project. Tests are written in [Jest](https://jestjs.io/) but should be easy to adapt or rewrite for whatever testing framework.
